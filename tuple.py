@@ -1,0 +1,5 @@
+tup=('dharmesh','lalit','upadhayay','sneha','dubey')
+print(tup[::-1])
+print(tup.index('dharmesh'))
+print(tup.count('dharmesh'))
+print(len(tup))

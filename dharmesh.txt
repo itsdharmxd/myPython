@@ -1,0 +1,5 @@
+dharmesh,50
+lalit,40
+sneha,250
+jagat,67
+asha,64

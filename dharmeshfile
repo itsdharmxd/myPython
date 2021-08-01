@@ -1,0 +1,5 @@
+from numpy import *
+
+arr=array([3,4,5,66,3])
+print(type(arr))
+print(arr)
